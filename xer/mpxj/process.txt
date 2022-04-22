@@ -1,0 +1,54 @@
+# Read xer file
+xer_file_name = "my-sample.xer"
+import net.sf.mpxj.ProjectFile;
+import net.sf.mpxj.reader.UniversalProjectReader;
+# or PrimaveraXERFileReader which provides access to additional options,
+UniversalProjectReader reader = new UniversalProjectReader();
+ProjectFile project = reader.read(xer_file_name);
+
+
+
+Retrieve a collection containing all of the resources present in the file,
+and iterate through them printing the resource name, ID and unique ID
+---------------------------------------------------------------------------
+ProjectReader reader = new UniversalProjectReader ();
+ProjectFile project = reader.read("example.mpp");
+for (Resource resource : project.getAllResources())
+{
+   System.out.println("Resource: " + resource.getName() + " (Unique ID=" + resource.getUniqueID() + ")");
+}
+Python: AttributeError: 'net.sf.mpxj.ProjectFile' object has no attribute 'getAllResources'
+
+# Multiple files
+An XER file can contain multiple projects. MPXJ reads the first.
+List projects:
+-----------------------------------------------------------
+PrimaveraXERFileReader reader = new PrimaveraXERFileReader();
+FileInputStream is = new FileInputStream("my-sample.xer");
+Map<Integer, String> projects = reader.listProjects(is);
+System.out.println("ID\tName");
+for (Entry<Integer, String> entry : projects.entrySet())
+{
+   System.out.println(entry.getKey()+"\t"+entry.getValue());
+}
+-----------------------------------------------------------
+
+Then use the project ID to identify the project to analyze:
+-----------------------------------------------------------
+import net.sf.mpxj.ProjectFile;
+import net.sf.mpxj.primavera.PrimaveraXERFileReader;
+PrimaveraXERFileReader reader = new PrimaveraXERFileReader();
+reader.setProjectID(123);
+ProjectFile file = reader.read("my-sample.xer");
+-----------------------------------------------------------
+
+## Reading Source to MPXJ Attributes ##
+MPXJ attempts to map user defined fields from P6 to the custom fields.
+When MPXJ reads user defined fields from the XER file,
+it will assign each new user defined field to a new custom attribute.
+
+
+
+
+
+

@@ -1,0 +1,1222 @@
+</node>
+  <node id="RWPR0150">
+    <data key="d0">red</data>
+    <data key="Label">RW Collection Pump Rm - Pour basement wall and staircase (Part 2 of 2)</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">23/02/2019</data>
+    <data key="PlannedEnd">23/02/2019</data>
+    <data key="ActualStart">07/01/2019</data>
+    <data key="ActualEnd">07/01/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="THRF1460">
+    <data key="d0">red</data>
+    <data key="Label">Turbine Hall GL5-7 /C-B (Bay 6b) - Kalbau (DEF_WK07 confirmed not required)</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/01/2019</data>
+    <data key="PlannedEnd">29/01/2019</data>
+    <data key="ActualStart">13/12/2018</data>
+    <data key="ActualEnd">15/12/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="CCOM2650">
+    <data key="d0">red</data>
+    <data key="Label">Commissioning test</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">31/08/2019</data>
+    <data key="PlannedEnd">05/09/2019</data>
+    <data key="ActualStart">01/11/2019</data>
+    <data key="ActualEnd">02/11/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1HA-2A55">
+    <data key="d0">blue</data>
+    <data key="Label">PIPE STRESS ANALYSIS AND REPORT FOR HRSG SYSTEMS LAB/LBA10/LBB/LBC AVAILABLE</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">30/04/2017</data>
+    <data key="PlannedEnd">30/04/2017</data>
+    <data key="ActualStart">28/04/2017</data>
+    <data key="ActualEnd">28/04/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="IBC10320">
+    <data key="d0">red</data>
+    <data key="Label">Diversion Culvert - Backfill and  reinstate quay wall concrete block to 0.5m below 2nd layer of struts</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">09/01/2020</data>
+    <data key="PlannedEnd">13/01/2020</data>
+    <data key="ActualStart">08/12/2019</data>
+    <data key="ActualEnd">28/12/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1UMC4Y40">
+    <data key="d0">black</data>
+    <data key="Label">Equipment Delivery by Siemens - Module Pipe Rack UMCL1Y</data>
+    <data key="TaskType">TT_Mile</data>
+    <data key="PlannedStart">27/04/2018</data>
+    <data key="PlannedEnd">27/04/2018</data>
+    <data key="ActualStart">27/04/2018</data>
+    <data key="ActualEnd">27/04/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">START_ON</data>
+    <data key="ConstraintDate">27/04/2018</data>
+  
+</node>
+  <node id="SI-GHD2-20">
+    <data key="d0">red</data>
+    <data key="Label">(BOP) BASIC DESIGN, SPECIFICATION WATER PIPEWORK SYSTEM</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">08/05/2017</data>
+    <data key="PlannedEnd">02/07/2017</data>
+    <data key="ActualStart">08/04/2017</data>
+    <data key="ActualEnd">27/06/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="EV009002">
+    <data key="d0">red</data>
+    <data key="Label">Event 009 - 2 nos Pre-drill abortive</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">03/03/2018</data>
+    <data key="PlannedEnd">31/03/2018</data>
+    <data key="ActualStart">30/12/2017</data>
+    <data key="ActualEnd">26/01/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="DBC20150">
+    <data key="d0">red</data>
+    <data key="Label">Discharge Culvert /Zone A3 (Western Section) - Trim pipe piles</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">07/01/2020</data>
+    <data key="PlannedEnd">13/01/2020</data>
+    <data key="ActualStart">20/12/2019</data>
+    <data key="ActualEnd">28/12/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10MAC-1270">
+    <data key="d0">red</data>
+    <data key="Label">LP-1 - Check Axial Displacement of Inner Casing</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">01/04/2019</data>
+    <data key="PlannedEnd">01/04/2019</data>
+    <data key="ActualStart">01/04/2019</data>
+    <data key="ActualEnd">01/04/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SFF30070XX">
+    <data key="d0">red</data>
+    <data key="Label">Shaft F - Construct permanent shaft wall (Pour 3 of 8)</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">01/01/2020</data>
+    <data key="PlannedEnd">01/01/2020</data>
+    <data key="ActualStart">07/12/2019</data>
+    <data key="ActualEnd">07/12/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="00STG20">
+    <data key="d0">red</data>
+    <data key="Label">Install Containers</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">11/03/2019</data>
+    <data key="PlannedEnd">16/03/2019</data>
+    <data key="ActualStart">30/04/2019</data>
+    <data key="ActualEnd">24/05/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="EDS.1080">
+    <data key="d0">black</data>
+    <data key="Label">Equipment Delivery by Siemens - Electrical, Control &amp; Instrumentation (for Generator Steam Turbine)</data>
+    <data key="TaskType">TT_Mile</data>
+    <data key="PlannedStart">30/11/2019</data>
+    <data key="PlannedEnd">30/11/2019</data>
+    <data key="ActualStart">13/04/2019</data>
+    <data key="ActualEnd">13/04/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">START_NO_EARLIER_THAN</data>
+    <data key="ConstraintDate">17/09/2018</data>
+  
+</node>
+  <node id="SFE30165">
+    <data key="d0">red</data>
+    <data key="Label">Shaft E - Trim pipe piles</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">01/01/2020</data>
+    <data key="PlannedEnd">04/01/2020</data>
+    <data key="ActualStart">01/01/2020</data>
+    <data key="ActualEnd">04/01/2020</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10MA-1280">
+    <data key="d0">red</data>
+    <data key="Label">Align Check of Bearing Casings &amp; Baseplates After Grouting</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">23/08/2018</data>
+    <data key="PlannedEnd">25/08/2018</data>
+    <data key="ActualStart">23/08/2018</data>
+    <data key="ActualEnd">24/08/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10CP-AA20">
+    <data key="d0">red</data>
+    <data key="Label">Grounding Supports</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">30/09/2019</data>
+    <data key="PlannedEnd">10/10/2019</data>
+    <data key="ActualStart">25/07/2019</data>
+    <data key="ActualEnd">31/07/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="00SGM-01-30">
+    <data key="d0">red</data>
+    <data key="Label">Hydro Test</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">11/10/2019</data>
+    <data key="PlannedEnd">15/10/2019</data>
+    <data key="ActualStart">11/10/2019</data>
+    <data key="ActualEnd">15/10/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1UMC2E75">
+    <data key="d0">black</data>
+    <data key="Label">(F) DETAIL DESIGN STEEL PLATFORM COND. PIT DWGS WITH CONTRACTOR UMC</data>
+    <data key="TaskType">TT_Mile</data>
+    <data key="PlannedStart">31/10/2017</data>
+    <data key="PlannedEnd">31/10/2017</data>
+    <data key="ActualStart">25/11/2017</data>
+    <data key="ActualEnd">25/11/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="CCOM2880">
+    <data key="d0">red</data>
+    <data key="Label">Final check for readiness</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">31/08/2019</data>
+    <data key="PlannedEnd">05/09/2019</data>
+    <data key="ActualStart">11/11/2019</data>
+    <data key="ActualEnd">11/11/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="HCOM1200">
+    <data key="d0">black</data>
+    <data key="Label">Reinstatement LAB System &amp; Issue ECC</data>
+    <data key="TaskType">TT_Rsrc</data>
+    <data key="PlannedStart">06/01/2020</data>
+    <data key="PlannedEnd">10/01/2020</data>
+    <data key="ActualStart">05/01/2020</data>
+    <data key="ActualEnd">09/01/2020</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SP1SGJ3-80">
+    <data key="d0">black</data>
+    <data key="Label">DELIVERY FIRE FIGHTING / GAS DETECTION SGJ / CYQ / CYE EX WORKS</data>
+    <data key="TaskType">TT_Mile</data>
+    <data key="PlannedStart">16/12/2017</data>
+    <data key="PlannedEnd">16/12/2017</data>
+    <data key="ActualStart">04/12/2017</data>
+    <data key="ActualEnd">04/12/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10GM-02-100">
+    <data key="d0">red</data>
+    <data key="Label">Install Equipment/Skids/Pumps</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">15/04/2019</data>
+    <data key="PlannedEnd">06/05/2019</data>
+    <data key="ActualStart">17/04/2019</data>
+    <data key="ActualEnd">09/07/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="TOP2680">
+    <data key="d0">blue</data>
+    <data key="Label">(TOP-10AC) GIL</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">31/07/2019</data>
+    <data key="PlannedEnd">31/07/2019</data>
+    <data key="ActualStart">24/07/2019</data>
+    <data key="ActualEnd">24/07/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">FINISH_ON</data>
+    <data key="ConstraintDate">24/07/2019</data>
+  
+</node>
+  <node id="SI1LCB3B25">
+    <data key="d0">red</data>
+    <data key="Label">DETAIL DESIGN, MANUFACTURING, SHOP TEST CONDENSATE EXTRACTION PUMP LCB</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/08/2017</data>
+    <data key="PlannedEnd">14/06/2018</data>
+    <data key="ActualStart">08/08/2017</data>
+    <data key="ActualEnd">24/04/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">START_NO_EARLIER_THAN</data>
+    <data key="ConstraintDate">08/08/2017</data>
+  
+</node>
+  <node id="SI-BZP4-27">
+    <data key="d0">blue</data>
+    <data key="Label">First Cables Support System (BZP) (Main) on-site</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">30/11/2019</data>
+    <data key="PlannedEnd">30/11/2019</data>
+    <data key="ActualStart">22/10/2018</data>
+    <data key="ActualEnd">22/10/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">FINISH_ON</data>
+    <data key="ConstraintDate">07/06/2018</data>
+  
+</node>
+  <node id="EV008011">
+    <data key="d0">red</data>
+    <data key="Label">Event 008 - Declaration of unplanted area</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">13/12/2017</data>
+    <data key="PlannedEnd">30/12/2017</data>
+    <data key="ActualStart">06/12/2017</data>
+    <data key="ActualEnd">16/12/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="A3950">
+    <data key="d0">black</data>
+    <data key="Label">HONG KONG GOVERNMENT APPROVAL / NTP</data>
+    <data key="TaskType">TT_Mile</data>
+    <data key="PlannedStart">28/06/2021</data>
+    <data key="PlannedEnd">28/06/2021</data>
+    <data key="ActualStart">13/12/2016</data>
+    <data key="ActualEnd">13/12/2016</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="THSS0460">
+    <data key="d0">red</data>
+    <data key="Label">Turbine Hall GL.2-4 /D-C (Bay 6a) - Install upper roof steel structure</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">14/06/2018</data>
+    <data key="PlannedEnd">15/06/2018</data>
+    <data key="ActualStart">23/05/2018</data>
+    <data key="ActualEnd">24/05/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="00EK09">
+    <data key="d0">red</data>
+    <data key="Label">Erection of Blending Station</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">30/04/2019</data>
+    <data key="PlannedEnd">22/05/2019</data>
+    <data key="ActualStart">25/05/2019</data>
+    <data key="ActualEnd">27/07/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="TOP1400">
+    <data key="d0">blue</data>
+    <data key="Label">(TOP-10CYQ) Gas Detection System</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">15/04/2020</data>
+    <data key="PlannedEnd">15/04/2020</data>
+    <data key="ActualStart">09/01/2020</data>
+    <data key="ActualEnd">09/01/2020</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">FINISH_ON</data>
+    <data key="ConstraintDate">17/11/2019</data>
+  
+</node>
+  <node id="RCWL0110">
+    <data key="d0">red</data>
+    <data key="Label">Perimeter RC Wall / West Elevation - GL.K -G</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">06/08/2018</data>
+    <data key="PlannedEnd">09/08/2018</data>
+    <data key="ActualStart">12/04/2018</data>
+    <data key="ActualEnd">12/05/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1UMC2I109">
+    <data key="d0">red</data>
+    <data key="Label">DETAIL DESIGN / CHECKER STEEL MISC. PLATFORM UMC</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">03/07/2017</data>
+    <data key="PlannedEnd">16/09/2017</data>
+    <data key="ActualStart">09/06/2017</data>
+    <data key="ActualEnd">04/01/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SCWtaBA8">
+    <data key="d0">red</data>
+    <data key="Label">BA8 - (1st) BD Consent to Temp works for SCW &amp; Culvert Modification (Resubmit incl wall, excav.&amp; anchor)(Wet){5b1(r)}</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/02/2018</data>
+    <data key="PlannedEnd">27/03/2018</data>
+    <data key="ActualStart">29/01/2018</data>
+    <data key="ActualEnd">26/02/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1PAH2-80">
+    <data key="d0">red</data>
+    <data key="Label">QUOTATION STAGE CONDENSER TUBE CLEANING SYSTEM PAH</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">14/01/2017</data>
+    <data key="PlannedEnd">14/03/2017</data>
+    <data key="ActualStart">30/12/2016</data>
+    <data key="ActualEnd">21/04/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="MCGZ0050">
+    <data key="d0">red</data>
+    <data key="Label">East Elevation at GL.1 / Glazing panels</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">11/03/2019</data>
+    <data key="PlannedEnd">02/05/2019</data>
+    <data key="ActualStart">24/01/2019</data>
+    <data key="ActualEnd">03/03/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">START_NO_EARLIER_THAN</data>
+    <data key="ConstraintDate">18/01/2019</data>
+  
+</node>
+  <node id="THTT4050">
+    <data key="d0">red</data>
+    <data key="Label">Turbine Table TT4 - Close formwork (if any)</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">01/12/2017</data>
+    <data key="PlannedEnd">01/12/2017</data>
+    <data key="ActualStart">01/12/2017</data>
+    <data key="ActualEnd">01/12/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10BZL-01-20">
+    <data key="d0">red</data>
+    <data key="Label">Install Primary Containment</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">08/10/2019</data>
+    <data key="PlannedEnd">22/10/2019</data>
+    <data key="ActualStart">12/10/2019</data>
+    <data key="ActualEnd">17/10/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="EV017510">
+    <data key="d0">red</data>
+    <data key="Label">Event 017(I) - Advanced Precautionary Grouting</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/01/2019</data>
+    <data key="PlannedEnd">08/03/2019</data>
+    <data key="ActualStart">27/12/2018</data>
+    <data key="ActualEnd">09/02/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="CCOM5080">
+    <data key="d0">red</data>
+    <data key="Label">PAB System commissioning</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">02/07/2020</data>
+    <data key="PlannedEnd">07/07/2020</data>
+    <data key="ActualStart">14/01/2020</data>
+    <data key="ActualEnd">18/01/2020</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10SGJ-02-10">
+    <data key="d0">red</data>
+    <data key="Label">Install Skid+Auxiliaries</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">30/09/2019</data>
+    <data key="PlannedEnd">15/10/2019</data>
+    <data key="ActualStart">08/10/2019</data>
+    <data key="ActualEnd">19/10/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="00EG-02-60">
+    <data key="d0">red</data>
+    <data key="Label">Hydro Test</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">31/07/2019</data>
+    <data key="PlannedEnd">14/08/2019</data>
+    <data key="ActualStart">10/08/2019</data>
+    <data key="ActualEnd">17/08/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="00GM-02-10">
+    <data key="d0">red</data>
+    <data key="Label">Install Equipment/Skids/Pumps</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">15/04/2019</data>
+    <data key="PlannedEnd">11/05/2019</data>
+    <data key="ActualStart">15/04/2019</data>
+    <data key="ActualEnd">09/07/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1C--4-27">
+    <data key="d0">red</data>
+    <data key="Label">ST I&amp;C TRANSPORT TO SITE FIELD INSTRUMENTATION</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/03/2018</data>
+    <data key="PlannedEnd">24/05/2018</data>
+    <data key="ActualStart">16/03/2018</data>
+    <data key="ActualEnd">13/05/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI-CJP2-38">
+    <data key="d0">blue</data>
+    <data key="Label">GT INPUT FOR I&amp;C UNIT COORDINATION</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">25/08/2017</data>
+    <data key="PlannedEnd">25/08/2017</data>
+    <data key="ActualStart">17/08/2017</data>
+    <data key="ActualEnd">17/08/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="THRF0570XX">
+    <data key="d0">red</data>
+    <data key="Label">Turbine Hall GL.1-5 /C-B (Bay 7a) - Install standing seam roof cladding [Deferred Works]</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">02/01/2020</data>
+    <data key="PlannedEnd">02/01/2020</data>
+    <data key="ActualStart">19/05/2018</data>
+    <data key="ActualEnd">19/05/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SFF20030">
+    <data key="d0">red</data>
+    <data key="Label">Shaft F - Micro tunneling and pipe jacking from Shaft E (Part 2 of 2)</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">01/11/2019</data>
+    <data key="PlannedEnd">11/11/2019</data>
+    <data key="ActualStart">19/09/2019</data>
+    <data key="ActualEnd">17/10/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10MKQ40">
+    <data key="d0">red</data>
+    <data key="Label">NDE</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">09/04/2019</data>
+    <data key="PlannedEnd">20/04/2019</data>
+    <data key="ActualStart">09/04/2019</data>
+    <data key="ActualEnd">19/09/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="A1900">
+    <data key="d0">red</data>
+    <data key="Label">Set on Base Boiler Blowdown Vessel</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">13/11/2018</data>
+    <data key="PlannedEnd">13/11/2018</data>
+    <data key="ActualStart">06/11/2018</data>
+    <data key="ActualEnd">08/11/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="EV011110">
+    <data key="d0">red</data>
+    <data key="Label">Event 011A - Formal test report issued for submission in 7 calendar days</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/11/2018</data>
+    <data key="PlannedEnd">02/12/2018</data>
+    <data key="ActualStart">13/11/2018</data>
+    <data key="ActualEnd">30/11/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="A1650">
+    <data key="d0">red</data>
+    <data key="Label">Placing Hotwell</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">07/05/2018</data>
+    <data key="PlannedEnd">07/05/2018</data>
+    <data key="ActualStart">05/05/2018</data>
+    <data key="ActualEnd">19/05/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="TOP1660">
+    <data key="d0">blue</data>
+    <data key="Label">(TOP-10BAT) Main Transformer 10BAT01/10BBT01</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">16/09/2019</data>
+    <data key="PlannedEnd">16/09/2019</data>
+    <data key="ActualStart">17/08/2019</data>
+    <data key="ActualEnd">17/08/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">FINISH_ON</data>
+    <data key="ConstraintDate">19/08/2019</data>
+  
+</node>
+  <node id="DPT10045">
+    <data key="d0">red</data>
+    <data key="Label">DPT /Zone A (Southern Section) - BD Consent for Commencement of Excavation &amp; ELS</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">18/06/2018</data>
+    <data key="PlannedEnd">15/07/2018</data>
+    <data key="ActualStart">18/05/2018</data>
+    <data key="ActualEnd">22/06/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="00PUN11">
+    <data key="d0">red</data>
+    <data key="Label">Install Containers - Skid</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">08/06/2019</data>
+    <data key="PlannedEnd">13/06/2019</data>
+    <data key="ActualStart">27/06/2019</data>
+    <data key="ActualEnd">21/09/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="ENG1880">
+    <data key="d0">blue</data>
+    <data key="Label">Engineering complete - (10QCC) Trisodium Phosphate Dosing QC</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">02/12/2019</data>
+    <data key="PlannedEnd">02/12/2019</data>
+    <data key="ActualStart">31/10/2017</data>
+    <data key="ActualEnd">31/10/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="ITP2130">
+    <data key="d0">red</data>
+    <data key="Label">ITP for - (00MBU) NOX Water Forwarding System incl. Supply Lines to GT Skid</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">06/08/2018</data>
+    <data key="PlannedEnd">29/08/2018</data>
+    <data key="ActualStart">19/05/2018</data>
+    <data key="ActualEnd">15/06/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI-CYE3-92">
+    <data key="d0">blue</data>
+    <data key="Label">(BOP) (RFS) READY FOR SHIPMENT FIRE ALARM SYSTEM CYE</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">01/03/2018</data>
+    <data key="PlannedEnd">01/03/2018</data>
+    <data key="ActualStart">23/02/2018</data>
+    <data key="ActualEnd">23/02/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="THSS0340">
+    <data key="d0">red</data>
+    <data key="Label">Turbine Hall GL.1-5 /F-E (Bay 4a) - Connect installed trusses by secondary beams and bracing</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">06/06/2018</data>
+    <data key="PlannedEnd">08/06/2018</data>
+    <data key="ActualStart">14/05/2018</data>
+    <data key="ActualEnd">16/05/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10LBA80-40">
+    <data key="d0">red</data>
+    <data key="Label">NDE</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">16/04/2019</data>
+    <data key="PlannedEnd">08/06/2019</data>
+    <data key="ActualStart">16/04/2019</data>
+    <data key="ActualEnd">27/09/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1BFA4-10">
+    <data key="d0">black</data>
+    <data key="Label">Equipment Delivery by Siemens - LV/DC Switchgear BFA</data>
+    <data key="TaskType">TT_Mile</data>
+    <data key="PlannedStart">30/11/2019</data>
+    <data key="PlannedEnd">30/11/2019</data>
+    <data key="ActualStart">09/04/2019</data>
+    <data key="ActualEnd">09/04/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">START_ON</data>
+    <data key="ConstraintDate">16/07/2018</data>
+  
+</node>
+  <node id="CCOM2390">
+    <data key="d0">red</data>
+    <data key="Label">Fans/Pumps cold commissioning</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">31/08/2019</data>
+    <data key="PlannedEnd">05/09/2019</data>
+    <data key="ActualStart">23/10/2019</data>
+    <data key="ActualEnd">23/10/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="MS-09-3XX">
+    <data key="d0">blue</data>
+    <data key="Label">MS-09-3 / Pile Caps, Tie Beams and Ground Floor Slab for Turbine Hall Bldg</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">29/11/2018</data>
+    <data key="PlannedEnd">29/11/2018</data>
+    <data key="ActualStart">30/09/2018</data>
+    <data key="ActualEnd">30/09/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI-BZK3-86">
+    <data key="d0">red</data>
+    <data key="Label">(BOP) FINAL CHECK BEFORE SHIPMENT MV CABLES BZK</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">18/06/2018</data>
+    <data key="PlannedEnd">01/07/2018</data>
+    <data key="ActualStart">27/06/2018</data>
+    <data key="ActualEnd">10/07/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="HRS10.1080">
+    <data key="d0">blue</data>
+    <data key="Label">Civil Contractor H/O West Side of HRSG back</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">06/11/2018</data>
+    <data key="PlannedEnd">06/11/2018</data>
+    <data key="ActualStart">06/11/2018</data>
+    <data key="ActualEnd">06/11/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="RWPR0110">
+    <data key="d0">red</data>
+    <data key="Label">RW Collection Pump Rm - Pour basement wall and staircase (Part 1 of 2)</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">28/01/2019</data>
+    <data key="PlannedEnd">28/01/2019</data>
+    <data key="ActualStart">29/11/2018</data>
+    <data key="ActualEnd">29/11/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="DPT30140">
+    <data key="d0">red</data>
+    <data key="Label">DPT /Zone C (Northern Section) - Connect CW supply pipeline to Shaft F</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">13/01/2020</data>
+    <data key="PlannedEnd">15/01/2020</data>
+    <data key="ActualStart">07/12/2019</data>
+    <data key="ActualEnd">23/12/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="CCOM4070">
+    <data key="d0">red</data>
+    <data key="Label">ready for operation, pending operational licence</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">02/07/2020</data>
+    <data key="PlannedEnd">07/07/2020</data>
+    <data key="ActualStart">25/11/2019</data>
+    <data key="ActualEnd">30/11/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="LIFTDN10">
+    <data key="d0">red</data>
+    <data key="Label">Lifts - Review engineer's drawings and prepare design (AD TBC)</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">21/12/2017</data>
+    <data key="PlannedEnd">17/01/2018</data>
+    <data key="ActualStart">21/12/2017</data>
+    <data key="ActualEnd">13/06/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="ITP1120">
+    <data key="d0">red</data>
+    <data key="Label">ITP for - (10MKA) Generator Incl. Bearing System 10 MKD</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">02/12/2019</data>
+    <data key="PlannedEnd">25/12/2019</data>
+    <data key="ActualStart">08/05/2018</data>
+    <data key="ActualEnd">05/06/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="MS-10-1XX">
+    <data key="d0">blue</data>
+    <data key="Label">MS-10-1 / Complete Crane Walkway and Platforms within Turbine Hall</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">31/03/2019</data>
+    <data key="PlannedEnd">31/03/2019</data>
+    <data key="ActualStart">19/03/2019</data>
+    <data key="ActualEnd">19/03/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1UBF2-45">
+    <data key="d0">red</data>
+    <data key="Label">PREPARATION BASIC BUILDING DWGS UBF/UBE</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">01/06/2017</data>
+    <data key="PlannedEnd">05/07/2017</data>
+    <data key="ActualStart">04/05/2017</data>
+    <data key="ActualEnd">24/05/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10MKG40">
+    <data key="d0">red</data>
+    <data key="Label">NDE</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">30/04/2019</data>
+    <data key="PlannedEnd">24/05/2019</data>
+    <data key="ActualStart">17/05/2019</data>
+    <data key="ActualEnd">21/09/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="00BAW-01-20">
+    <data key="d0">red</data>
+    <data key="Label">Install Accessories/Supports</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">01/04/2019</data>
+    <data key="PlannedEnd">23/04/2019</data>
+    <data key="ActualStart">01/04/2019</data>
+    <data key="ActualEnd">18/05/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="00LAB80">
+    <data key="d0">red</data>
+    <data key="Label">Painting/Insulation</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">13/08/2019</data>
+    <data key="PlannedEnd">20/09/2019</data>
+    <data key="ActualStart">10/08/2019</data>
+    <data key="ActualEnd">15/10/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="CCOM4430">
+    <data key="d0">red</data>
+    <data key="Label">testing of PAC chamber stoplog - dry and wet testing</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">02/07/2020</data>
+    <data key="PlannedEnd">07/07/2020</data>
+    <data key="ActualStart">18/12/2019</data>
+    <data key="ActualEnd">21/12/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10LCL30">
+    <data key="d0">red</data>
+    <data key="Label">Install Small Bore Pipe/Valves/Supports</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">04/03/2019</data>
+    <data key="PlannedEnd">30/05/2019</data>
+    <data key="ActualStart">04/03/2019</data>
+    <data key="ActualEnd">25/07/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="BBDP0140">
+    <data key="d0">red</data>
+    <data key="Label">Boiler Blow Down Pit - Erect wall and column formwork</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">27/08/2018</data>
+    <data key="PlannedEnd">30/08/2018</data>
+    <data key="ActualStart">26/07/2018</data>
+    <data key="ActualEnd">28/07/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="MCGZ0070">
+    <data key="d0">red</data>
+    <data key="Label">East Elevation at GL.1 / Subframe for aluminum features</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">04/04/2019</data>
+    <data key="PlannedEnd">24/04/2019</data>
+    <data key="ActualStart">11/02/2019</data>
+    <data key="ActualEnd">31/05/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10MBA1370">
+    <data key="d0">red</data>
+    <data key="Label">Completion of Gas Turbine</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/10/2019</data>
+    <data key="PlannedEnd">04/11/2019</data>
+    <data key="ActualStart">28/09/2019</data>
+    <data key="ActualEnd">21/11/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="ITP1330">
+    <data key="d0">red</data>
+    <data key="Label">ITP for - (10LCA) Main Condensate Pumps and Supply System for Min. Flow Operation Incl.</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">17/09/2018</data>
+    <data key="PlannedEnd">10/10/2018</data>
+    <data key="ActualStart">04/06/2018</data>
+    <data key="ActualEnd">16/07/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SFA_BA58b">
+    <data key="d0">red</data>
+    <data key="Label">BA5 - Consent for Temporary works for Shaft A, Pump Station, Diversion Culvert (Excav &amp; ELS) {4b4-4}</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/05/2018</data>
+    <data key="PlannedEnd">22/06/2018</data>
+    <data key="ActualStart">28/06/2018</data>
+    <data key="ActualEnd">25/07/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1UBA3G80">
+    <data key="d0">blue</data>
+    <data key="Label">(RFS) READY FOR SHIPMENT CABINET 10UBA BUILDING</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">05/06/2018</data>
+    <data key="PlannedEnd">05/06/2018</data>
+    <data key="ActualStart">25/07/2018</data>
+    <data key="ActualEnd">25/07/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="CCOM1770">
+    <data key="d0">blue</data>
+    <data key="Label">Handover of TOP 10BA-01</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">31/08/2019</data>
+    <data key="PlannedEnd">31/08/2019</data>
+    <data key="ActualStart">29/09/2019</data>
+    <data key="ActualEnd">29/09/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="GENSUB9A">
+    <data key="d0">red</data>
+    <data key="Label">Aluminum - BD Approval</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/11/2018</data>
+    <data key="PlannedEnd">24/01/2019</data>
+    <data key="ActualStart">08/11/2018</data>
+    <data key="ActualEnd">07/01/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI-P--2I45">
+    <data key="d0">blue</data>
+    <data key="Label">DESIGN DATA SHEETS SAFETY, CONTROL VALVES P-SYSTEMS</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">28/02/2017</data>
+    <data key="PlannedEnd">28/02/2017</data>
+    <data key="ActualStart">15/02/2017</data>
+    <data key="ActualEnd">15/02/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="POW_BA58_1">
+    <data key="d0">red</data>
+    <data key="Label">BA8 - Consent for Excav &amp; ELS Plan for Power Island Area (Open Cut)(Phase 3){7c2i}</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">22/06/2017</data>
+    <data key="PlannedEnd">19/09/2017</data>
+    <data key="ActualStart">26/09/2017</data>
+    <data key="ActualEnd">20/10/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SFA10217XX">
+    <data key="d0">red</data>
+    <data key="Label">Shaft A - Construct 10th layer of 250mm skin wall</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">02/09/2019</data>
+    <data key="PlannedEnd">02/09/2019</data>
+    <data key="ActualStart">29/05/2019</data>
+    <data key="ActualEnd">29/05/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SFE10200">
+    <data key="d0">red</data>
+    <data key="Label">Shaft E -  Intstall lagging plates and 8th layer of strut</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">03/06/2019</data>
+    <data key="PlannedEnd">06/06/2019</data>
+    <data key="ActualStart">02/05/2019</data>
+    <data key="ActualEnd">05/05/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1HA-2-31">
+    <data key="d0">blue</data>
+    <data key="Label">DATA INPUT HRSG COMPLETED FOR I&amp;C DESIGN</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">25/06/2017</data>
+    <data key="PlannedEnd">25/06/2017</data>
+    <data key="ActualStart">09/06/2017</data>
+    <data key="ActualEnd">09/06/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1MAV4-25">
+    <data key="d0">red</data>
+    <data key="Label">TRANSPORT LUBE OIL MODUL MAV</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/01/2018</data>
+    <data key="PlannedEnd">15/03/2018</data>
+    <data key="ActualStart">18/01/2018</data>
+    <data key="ActualEnd">01/04/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="THRF2452">
+    <data key="d0">red</data>
+    <data key="Label">Turbine Hall GL.7-10 (Bay 4c) - Deferred Opening</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">01/08/2019</data>
+    <data key="PlannedEnd">16/08/2019</data>
+    <data key="ActualStart">01/03/2019</data>
+    <data key="ActualEnd">16/03/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="TOP1430">
+    <data key="d0">blue</data>
+    <data key="Label">(TOP-10PCB) Service Cooling Water System Incl. 10PDB</data>
+    <data key="TaskType">TT_FinMile</data>
+    <data key="PlannedStart">30/03/2020</data>
+    <data key="PlannedEnd">30/03/2020</data>
+    <data key="ActualStart">02/01/2020</data>
+    <data key="ActualEnd">02/01/2020</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">FINISH_ON</data>
+    <data key="ConstraintDate">24/11/2019</data>
+  
+</node>
+  <node id="10BZL-03-40">
+    <data key="d0">red</data>
+    <data key="Label">Install Cabling</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">04/10/2019</data>
+    <data key="PlannedEnd">01/11/2019</data>
+    <data key="ActualStart">14/08/2019</data>
+    <data key="ActualEnd">28/08/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SFF-BA58a">
+    <data key="d0">red</data>
+    <data key="Label">BA5 - Resub.of (Type II) Amendment  for Zone A Sheet Pile Alternative {4b1-alt A-1} [APPROVED AS TYPE I]</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">27/11/2017</data>
+    <data key="PlannedEnd">26/12/2017</data>
+    <data key="ActualStart">24/07/2017</data>
+    <data key="ActualEnd">22/08/2017</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="10HSJ120">
+    <data key="d0">red</data>
+    <data key="Label">Precommissioning</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">06/12/2019</data>
+    <data key="PlannedEnd">14/12/2019</data>
+    <data key="ActualStart">25/11/2019</data>
+    <data key="ActualEnd">18/01/2020</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="SI1MA-4-59">
+    <data key="d0">black</data>
+    <data key="Label">Equipment Delivery by Siemens - Steam Turbine MA- (HP/IP) AUX. (Incl. FCA)</data>
+    <data key="TaskType">TT_Mile</data>
+    <data key="PlannedStart">30/08/2018</data>
+    <data key="PlannedEnd">30/08/2018</data>
+    <data key="ActualStart">31/07/2018</data>
+    <data key="ActualEnd">31/07/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+    <data key="Constraint">START_NO_EARLIER_THAN</data>
+    <data key="ConstraintDate">23/03/2018</data>
+  
+</node>
+  <node id="RWPR0020">
+    <data key="d0">red</data>
+    <data key="Label">RW Collection Pump Rm - Vertical blinding to the profile of base slab and shallow sump pit</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">26/11/2018</data>
+    <data key="PlannedEnd">28/11/2018</data>
+    <data key="ActualStart">31/10/2018</data>
+    <data key="ActualEnd">31/10/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="ECS20.1050">
+    <data key="d0">red</data>
+    <data key="Label">Installation of Cable Support Structure for HRSG</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">24/04/2019</data>
+    <data key="PlannedEnd">20/07/2019</data>
+    <data key="ActualStart">24/04/2019</data>
+    <data key="ActualEnd">29/06/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="Sub-GTST-130">
+    <data key="d0">red</data>
+    <data key="Label">Bid Technical Evaluation/Review Process</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">01/03/2018</data>
+    <data key="PlannedEnd">01/03/2018</data>
+    <data key="ActualStart">28/02/2018</data>
+    <data key="ActualEnd">28/02/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="ITP1900">
+    <data key="d0">red</data>
+    <data key="Label">ITP for - (10QU) Sampling Container QC</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">19/09/2018</data>
+    <data key="PlannedEnd">12/10/2018</data>
+    <data key="ActualStart">20/08/2018</data>
+    <data key="ActualEnd">11/09/2018</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  
+</node>
+  <node id="CCWS0010">
+    <data key="d0">red</data>
+    <data key="Label">Close Cooling Water Structure - Construct foundation and plinths</data>
+    <data key="TaskType">TT_Task</data>
+    <data key="PlannedStart">09/04/2019</data>
+    <data key="PlannedEnd">29/04/2019</data>
+    <data key="ActualStart">25/02/2019</data>
+    <data key="ActualEnd">04/03/2019</data>
+    <data key="Float">0</data>
+    <data key="Status">TK_Complete</data>
+  

@@ -1,0 +1,2046 @@
+path: /home/rony/Projects_Code/Cluster_Activities/data/MTR_Tunnels/xers/823A_As-built_Programme.xer
+dict_keys(['CURRTYPE', 'MEMOTYPE', 'OBS', 'PCATTYPE', 'UDFTYPE', 'UMEASURE', 'PCATVAL', 'PROJECT', 'CALENDAR', 'PROJPCAT', 'SCHEDOPTIONS', 'PROJWBS', 'RSRC', 'ACTVTYPE', 'RSRCRATE', 'TASK', 'WBSMEMO', 'ACTVCODE', 'TASKPRED', 'TASKRSRC', 'TASKACTV', 'UDFVALUE'])
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TASK
+[]
+822 to complete lining for 823A connection (Down Track)
+822 to complete lining for 823A connection (Up Track)
+823B to complete East Culvert for 823A connection
+AIP Design - Prepare & Submit
+AIP Design - Prepare and Submit
+AIP Design - Prepare and Submit
+AIP Design - Prepare and Submit
+AIP Design - Response to comments and Resubmit
+AIP Design - Response to comments and Resubmit
+AIP Design - Response to comments and Resubmit
+AIP Design - Review & Approval Period (by MTR)
+AIP Design - Review & Approval Period (for resubmission) (by MTRC & related Government Authorities)
+AIP Design - Review and Approval Period  (by MTRC)
+AIP Design - Review and Approval Period  (by MTRC)
+AIP Design - Review and Approval Period (by MTRC)
+AIP Design - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+AIP Design - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+Access opening for the up track cut and cover tunnel at Tse Uk Tsuen Shaft
+Access opening to DC (DC access period)
+Access opening to DC (DC access period)
+Air Quality Management Plan [P22.4.3]
+All cross passages within ERS to Tse Uk Tsuen Tunnels, down track, for door frame installation
+All cross passages within ERS to Tse Uk Tsuen Tunnels, uptrack, for door installation
+All cross passages within Tai Kong Po to ERS Tunnels,down track for door installation
+All cross passages within Tai Kong Po to ERS Tunnels,up track for door installation
+Application of power supply, environmental permits and construction substation
+Application of power supply, environmental permits and construction substation
+Application of tree transplant
+Approval of Contractor's Submission - Environmental Management Plan (G5.1.10)
+Approval of Contractor's Submission - Method of Construction (G12.1.1)
+Approval of Contractor's Submission - Preliminary Master Programme (G4.6.1)
+Approval of Contractor's Submission - Quality Plan (G9.2.1)
+Approval of Contractor's Submission - Submission Schedule (G12.11.1)
+Approval of Contractor's Submission - Time Chainage Programme (G4.11.1)
+Approval of Detailed Interface Plan
+Approval of Detailed Interface Plan
+Approval of Operating and Maintenance Manuals and as-built drawings for the Whole of the Works
+Approval of detailed Interface Requirements Specifications with the Designated Contractors (Appendix W of the PS)
+Approval of detailed Interface Requirements Specifications with the Designated Contractors (Appendix W of the PS)
+Approval of draft Operating and Maintenance Manuals and draft as-built drawings for Whole of the Works
+Approval of tunnel lining design
+Approval of tunnel segment mould design
+Approval period of AIR & AAP
+Asbestos abatement works
+Assemble and set up back-up plant for final drive
+Assemble, T&C of TBM
+Assemble, T&C of TBM
+Backfill existing stream courses in Works Area 4.9, 4.10 and 4.11 [PS18.5.1]
+Backfilling
+Backfilling
+Backfilling (1344m3)
+Backfilling backfilling to +20mPD from SN8 to SN9 (Soil: 7,050m3 @ 500m3/day)
+Backfilling between D-wall and 0.5m below S1 (2075m3)
+Backfilling between D-wall and 0.5m below S1 14,240m3 soil
+Backfilling between D-wall and 0.5m below S2 (180m3)
+Backfilling between D-wall and 0.5m below S2 (180m3) (SN18-19)
+Backfilling between tunnels (2000m3)
+Backfilling from +20mPD to ground level from SN8 to SN9  (Soil: 5,000m3 @ 500m3/day)
+Backfilling to +18.25mPD (1229 m3 of soil)
+Backfilling to 0.5m below S1 (+22.0mPD) (3410m3)
+Backfilling to 0.5m below S1 (+24.0mPD) (2480m3 of soil)
+Backfilling to 0.5m below S1 (+24.0mPD) (2480m3 of soil) (SN16-18)
+Backfilling to 0.5m below S1 (+28.5mPD) (2480m3 of soil)
+Backfilling to 0.5m below S2 (+16.5mPD) (3410m3)
+Backfilling to 0.5m below S2 (+23.5mPD) (1984m3 of soil)
+Backfilling to 0.5m below S3 (+11.0mPD) (3486m3)
+Backfilling to 0.5m below S3 (+19.5mPD) (372m3 of soil)
+Backfilling to 0.5m below the top of C&C Tunnel (+3.46mPD) (2343m3)
+Backfilling to 0.5m below the top of C&C Tunnel (+3.46mPD) (5218m3)
+Backfilling to original ground level (approx. +25.0mPD) (1860m3)
+Backfilling to original ground level (approx. +27.0mPD) (1488 m3 of soil)
+Backfilling to original ground level (approx. +27.0mPD) (1488m3 of soil)
+Backfilling to original ground level (approx. +31.5mPD) (1488m3 of soil)
+Backfilling to original ground level 21,390m3 (approx. +25.0mPD)
+Backfilling to original ground level 3,900m3 (approx. +25.0mPD) (1353m3)
+Backfilling up to ground level
+Backfilling up top S0 Soffit
+Backfilling up top S1 Soffit
+Blinding
+Blinding
+Box7A Setup TBM facilities, install noise enclosure and CNP application
+Capping beam construction
+Change Plant (Back-up cars)
+Check for underground utilities
+Clearing and inspection (Base Slab)
+Clearing and inspection (Base Slab)
+Clearing and inspection (Base Slab)
+Clearing and inspection (Base Slab)
+Clearing and inspection (Roof)
+Clearing and inspection (Wall & Roof)
+Clearing and inspection (Wall & Roof)
+Clearing and inspection (Wall and roof)
+Clearing and inspection (Wall and roof)
+Close out the temporary access opening at Tse Uk Tsuen Shaft
+Coat works
+Commencement of final assembly for tunnel boring machine at the factory
+Commencement of works
+Comp assembly, T&C of TBM & asso eqpmt (incl surface eqpmt) & start up track tunnel drive from ERS to Tse Uk Tsuen Shaft
+Comp assembly, T&C of TBM & asso eqpmt (incl. surface eqpmt) & start down track tunnel drive from ERS to Tai Kong Po
+Comp assembly, T&C of TBM & asso eqpmt (incl. surface eqpmt) & start up track tunnel drive from ERS to Tai Kong Po
+Comp assembly, T&C of TBM & asso eqpt (incl surface eqpt) & start down track tunnel drive from ERS to Tse Uk Tsuen Shaft
+Complete 100% of approved pre-cast segments manufacturing
+Complete 100% of approved pre-cast segments manufacturing
+Complete 100% of approved pre-cast segments manufacturing
+Complete 100% of diaphragm wall
+Complete 100% of tunnel drive
+Complete 100% of tunnel drive
+Complete 100% of tunnel drive
+Complete 100% tunnel invert & walkway and complete installation of cable brackets supplied by Contract 846
+Complete 20% of tunnel drive
+Complete 30% of approved pre-cast segments manufacturing
+Complete 30% of excavation
+Complete 30% of the cut and cover tunnels
+Complete 30% of tunnel drive
+Complete 50% of approved pre-cast segments manufacturing
+Complete 50% of approved pre-cast segments manufacturing
+Complete 50% of approved pre-cast segments manufacturing
+Complete 60% of approved pre-cast segments manufacturing
+Complete 60% of the cut and cover tunnels
+Complete 80% of tunnel drive
+Complete Closing of the access opening for up track and C&C Tunnel at TUT within Works Area 5.1 & backfilling
+Complete TUT Shaft within Works Area 5.1 & all requirements stated in App. Y3 of PS for ground treatment works by 822
+Complete all reinstatement works of the Works Areas
+Complete all reinstatement works within the Works Areas except Works Area 4.9 and 4.12C
+Complete all tree planting and reinstate Works Area 4.12C
+Complete all tree planting and reinstate Works Area 4.12C
+Complete all works
+Complete backfilling of the cut & cover tunnel except Box 6A & 7A
+Complete backfilling of the shaft
+Complete closing of the access opening
+Complete commissioning of the East Culvert
+Complete cross passage construction for ERS to Tse Uk Tsuen
+Complete cross passages construction for Tai Kong Po to ERS Tunnels
+Complete diaphragm wall construction for the launching shaft
+Complete diaphragm wall construction for the shunt neck
+Complete dismantling of the North tunnel boring machine
+Complete dismantling of the South tunnel boring machine
+Complete downtrack TBM tunnel of N.Tunnels include Box 7A except the roof, and C&C tunnel at 7B&6B both up & down tracks
+Complete excavation for the launching shaft
+Complete excavation of the cut and cover tunnels Box 6A
+Complete excavation of the cut and cover tunnels Box 6B
+Complete fabrication and factory tests of the 2nd tunnel boring machine and delivery to Hong Kong
+Complete fabrication and factory tests of the tunnel boring machine and ready for shipment to Hong Kong
+Complete fabrication of tunnel segment mould
+Complete ground treatment works adjacent to Tse Uk Tsuen shaft
+Complete ground treatment works adjacent to cut and cover tunnels at the northern launching shaft
+Complete installation of all cable brackets supplied by Contract 846 inside all the tunnels
+Complete installation of cable brackets supplied by Contract 846
+Complete installation of ground settlement markers within Works Areas 3.1, 3.2 and 3.3
+Complete pumping test
+Complete removal of TBM, all equipment, plant, materials and temp. works, and reinstate the areas at Tai Kong Po Shaft
+Complete temporary diversion of Kam Tin Nullah near Wang Toi Shan Shan Tsuen Road
+Complete temporary diversion of Wang Toi Shan Shan Tsuen Road
+Complete the Box 6A northern cut and cover tunnels to Degree 1
+Complete the Box 6B northern cut and cover tunnels to Degree 1
+Complete the Box 7B northern cut and cover tunnels to facilitate construction of temporary Kam Tin Nullah above
+Complete the East Culvert in Works Area 4.4
+Complete the backfilling works within Works Area 4.10
+Complete the down track cut and cover tunnel to Degree 1
+Complete the down track tunnel of the South Tunnels, excluding cross passages and backfilling
+Complete the down track tunnel structure at tai Kong Po Shaft for the final tunnel connections by Contract 824
+Complete the remaining down track cut and cover tunnel to Degree 1
+Complete the remaining up track cut and cover tunnel and the shunt neck to Degree 1
+Complete the shunt neck tunnel above south Tunnel
+Complete the temporary base slab for Tse Uk Tsuen Shaft
+Complete the temporary base slab of the northern TBM launching shaft
+Complete the temporary diversion of Wang Toi Shan Shan Tsuen Road
+Complete the up track TBM tunnel of the North Tunnels
+Complete the up track cut and cover tunnel to Degree 1
+Complete the up track tunnel of the South Tunnels and the Shunt Neck Tunnel w/ Emergency Exit Point,excl. backfilling
+Complete the up track tunnel structure at tai Kong Po Shaft for the final tunnel connections by Contract 824
+Complete tunnel invert, walkway and installation of cable brackets supplied by Contract 846
+Complete tunnel invert, walkway and installation of cable brackets supplied by Contract 846
+Complete up track C&C tunnel of North Tunnels at Box 7A except the roof
+Completion of the Whole of the Works
+Concrete backfill at side B from +5.0mPD to +8.0mPD
+Concrete backfill at side B from +8.0mPD to +11.0mPD
+Concrete fill up to +11.0mPD near side A mass concrete wall
+Concrete fill up to +8.0mPD near side A mass concrete wall
+Concreting (111m3)
+Concreting (121m3)
+Concreting (121m3)
+Concreting (164m3)
+Concreting (200m3)
+Concreting (200m3)
+Concreting (220m3)
+Concreting (220m3)
+Concreting (220m3)
+Concreting (222m3)
+Concreting (222m3)
+Concreting (222m3)
+Concreting (222m3)
+Concreting (222m3)
+Concreting (222m3)
+Concreting (222m3)
+Concreting (222m3)
+Concreting (225m3)
+Concreting (240m3)
+Concreting (240m3)
+Concreting (240m3)
+Concreting (240m3)
+Concreting (240m3)
+Concreting (242m3)
+Concreting (327m3)
+Concreting (330m3)
+Concreting (330m3)
+Concreting (Base Slab) (225m3)
+Concreting (Base Slab) (225m3)
+Concreting (Base Slab) (225m3)
+Concreting (Base Slab) (225m3)
+Concreting (Base Slab) (245m3)
+Concreting (Base Slab) (245m3)
+Concreting (Beam & Floor Slab) (31m3)
+Concreting (Beam, Floor Slab and Staircase) (31m3)
+Concreting (External Wall & Internal Wall) (128m3)
+Concreting (External Wall & Internal Wall) (264m3)
+Concreting (External Wall) (49m3)
+Concreting (Roof Parapet Wall) (30m3)
+Concreting (Roof) (225m3)
+Concreting (Wall & Roof) (444m3)
+Concreting (Wall & Roof) (444m3)
+Concreting (Wall & Roof) (450m3)
+Concreting (Wall & Roof) (450m3)
+Concreting (Wall and roof) (166m3)
+Concreting (Wall and roof) (166m3)
+Concreting for base slab (123m3)
+Concreting for base slab (127m3)
+Concreting for base slab (127m3)
+Concreting for base slab (30m3)
+Concreting for base slab (350m3)
+Concreting for base slab (350m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (363m3)
+Concreting for base slab (70m3)
+Concreting for base slab (70m3)
+Concreting for base slab (70m3)
+Concreting for base slab (70m3)
+Concreting for base slab (70m3)
+Concreting for base slab (90m3)
+Concreting for central slab
+Concreting for central slab (450m3)
+Concreting for roof (363m3)
+Concreting for roof (444m3)
+Concreting for roof (444m3)
+Concreting for roof (450m3)
+Concreting for roof (450m3)
+Concreting for wall and roof (150m3)
+Concreting for wall and roof (170m3)
+Concreting for wall and roof (175m3)
+Concreting for wall and roof (175m3)
+Concreting for wall and roof (200m3)
+Concreting for wall and roof (200m3)
+Concreting for wall and roof (215m3)
+Concreting for wall and roof (215m3)
+Concreting for wall and roof (215m3)
+Concreting for wall and roof (215m3)
+Concreting for wall and roof (215m3)
+Concreting for wall and roof (215m3)
+Concreting for wall and roof (260m3)
+Concreting for wall and roof (260m3)
+Concreting for wall and roof (260m3)
+Concreting for wall and roof (31m3)
+Concreting for wall and roof (320m3)
+Concreting for wall and roof (333m3)
+Concreting for wall and roof (412m3)
+Concreting for wall and roof (444m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (450m3)
+Concreting for wall and roof (489m3)
+Concreting for wall and roof (489m3)
+Concreting for wall and roof (489m3)
+Concreting for wall and roof (489m3)
+Condition Survey EBS for presence of Asbestos and gather samples
+Conduct Contamination Assessment in accordance with the Approved CAP (WA 3.1, 3.2, 3.3 remaining, 3.3A)
+Conduct Contamination Assessment in accordance with the Approved CAP (WA3.3 - Area M, I, L)
+Conduct remediation for Area Q in accordance with method proposed in the approved Remediation Action Plan [PS22.9.2]
+Conduct remediation in accordance with the approved Remediation Action Plan (WA 3.1, 3.2, 3.3 remaining, 3.3A)
+Conduct remediation in accordance with the approved Remediation Action Plan (WA3.3 - Area M, I, L)
+Confirmation of the order of 1st tunnel boring machine
+Confirmation of the order of 2nd tunnel boring machine
+Confirmation of tree survey
+Connection to East Box Culvert (823B portion)
+Construct barging facilities
+Construct capping beam, cobble, etc. (including bay 6 and 5)
+Construct temp. 500mm thick TBM concrete base slab
+Construct temp. 500mm thick plain concrete base slab
+Construct temp. 500mm thick plain concrete base slab at Bay 5 & 6
+Construction & connect East Box Culvert from Box 6B to KTR
+Construction entrance seal for TBM at North Bound
+Construction entrance seal for TBM at South Bound
+Construction of Bay 2 to Bay 7a (3565m3)
+Construction of Down stream base slab lining and low flow channel (5 Bay A14~A16, B14~B15; LFC CH 140~170)
+Construction of T-shaped retaining wall  (1 Bay CH B50~B60)
+Construction of T-shaped retaining wall  at Up stream of side B (2 Bay CH B30~B50)
+Construction of Temporary Culvert (open channel)
+Construction of Up stream base slab lining and low flow channel (6 Bay A1~A4, B3~B4; Low flow channel CH 30~50)
+Construction of base slab lining and low flow channel (4 bay A9~A10, B8~B9; LFC CH 80~110)
+Construction of mass concrete wall to +11.0mPD at Down stream of side B (3 bay CH B90~B120)
+Construction of mass concrete wall to +11.0mPD at Down stream of side B (4 bay CH B0~B30)
+Construction of mass concrete wall to +11.0mPD at Up stream of side B (3 bay CH B0~B30)
+Construction of mass concrete wall to +8.0mPD at side A (4 bay CH A80~A120)
+Construction of mass concrete wall to +8.0mPD of side B (3 bay CH B60~B90)
+Construction of mud pit
+Construction of remaining Down stream base slab lining and low flow channel (7 bay A11~A13, B10~B13; LFC CH 110~140)
+Construction of remaining Up stream base slab lining and low flow channel (7 bay A5~A8, B5~B7; LFC CH 50~80)
+Construction of temporary slab and entrance seal (622m3)
+Contamination Assessment Plan (CAP) - Approval Period (WA 3.1, 3.2, 3.3 remaining, 3.3A)
+Contamination Assessment Plan (CAP) - Approval Period (WA3.3 - Area M, I, L)
+Contamination Assessment Plan (CAP) - Prepare and Submit to EPD for Approval (WA 3.1, 3.2, 3.3 remaining, 3.3A)
+Contamination Assessment Plan (CAP) - Prepare and submit to EPD for Approval (WA3.3 - Area M, I, L)
+Contamination Assessment Report & Remediation Action Plan - Approval (WA3.1, 3.2, 3.3, 3.3A)
+Contamination Assessment Report & Remediation Action Plan - Approval (WA3.3 - Area M, I, L)
+Contamination Assessment Report & Remediation Action Plan - Prepare & Submit to EPD for Approval (WA3.1, 3.2, 3.3, 3.3A)
+Contamination Assessment Report & Remediation Action Plan - Prepare & Submit to EPD for Approval (WA3.3 - Area M, I, L)
+Contractor's Submission Schedule - Approval period
+Contractor's Submission Schedule - Prepare and submit for approval [GS12.11.1]
+Coring of Segment
+Coring of Segment
+Coring of Segment
+Coring of Segment
+Coring of Segment
+Coring of Segment
+Coring of Segment
+Coring of Segment
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing
+Curing (Base Slab)
+Curing (Base Slab)
+Curing (Base Slab)
+Curing (Base Slab)
+Curing (Base Slab)
+Curing (Base Slab)
+Curing (Beam & Floor Slab)
+Curing (Beam, Floor Slab and Staircase)
+Curing (External Wall & Internal Wall)
+Curing (External Wall & Internal Wall)
+Curing (External Wall)
+Curing (Roof Parapet Wall)
+Curing (Roof)
+Curing (Wall & Roof)
+Curing (Wall & Roof)
+Curing (Wall & Roof)
+Curing (Wall & Roof)
+Curing (Wall and roof)
+Curing (Wall and roof)
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for base slab
+Curing for central slab
+Curing for central slab
+Curing for roof
+Curing for roof
+Curing for roof
+Curing for roof
+Curing for roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curing for wall and roof
+Curtain Grout for cut slope (120 nos.)
+D-Wall Construction (1075m3)
+D-wall construction (1084m3)
+D-wall construction (1192m3)
+D-wall construction (1451m3)
+D-wall construction (2844m3)
+D-wall construction (3104m3)
+D-wall construction (4741m3)
+D-wall design review
+D-wall design review
+DDS Design - Prepare & Submit
+DDS Design - Prepare and Submit
+DDS Design - Prepare and Submit
+DDS Design - Prepare and Submit
+DDS Design - Prepare and Submit
+DDS Design - Prepare and Submit
+DDS Design - Prepare and Submit
+DDS Design - Prepare and Submit
+DDS Design - Prepare and Submit
+DDS Design - Prepare and Submit
+DDS Design - Response to comments & Resubmit
+DDS Design - Response to comments and Resubmit
+DDS Design - Response to comments and Resubmit
+DDS Design - Response to comments and Resubmit
+DDS Design - Response to comments and Resubmit
+DDS Design - Response to comments and Resubmit
+DDS Design - Response to comments and Resubmit
+DDS Design - Response to comments and Resubmit
+DDS Design - Response to comments and Resubmit
+DDS Design - Response to comments and Resubmit
+DDS Design - Review & Approval Period  (by MTRC)
+DDS Design - Review & Approval Period (for resubmission) (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period  (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period  (by MTRC)
+DDS Design - Review and Approval Period  (by MTRC)
+DDS Design - Review and Approval Period  (by MTRC)
+DDS Design - Review and Approval Period  (by MTRC)
+DDS Design - Review and Approval Period  (by MTRC)
+DDS Design - Review and Approval Period  (by MTRC)
+DDS Design - Review and Approval Period (by MTRC)
+DDS Design - Review and Approval Period (by MTRC)
+DDS Design - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period (for resubmission) (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period (for resubmission) (by MTRC & related Government Authorities)
+DDS Design - Review and Approval Period (for resubmission) (by MTRC & related Government Authorities)
+DIA Report - Prepare and Submit
+DIA Report - Response to comments and Resubmit
+DIA Report - Review and Approval Period (by MTRC)
+DIA Report - Review and Approval Period (for resubmission) (by MTRC & related Government Authorities)
+Demobilization of TBM facilities and noise enclosure
+Demobilization of TBM facilities and noise enclosure
+Demolition of EBS
+Design TBM and submit full details to the Engineer [PS7.2.1]
+Design for Safety & Constructability Plan - Approval period
+Design for Safety & Constructability Plan - Prepare and submit for approval [PS37.1]
+Design review of TBM ground treatment
+Design temporary bridge and approval
+Detailed Proposal for Carrying Out the Cross Passage Works [PS11.5.2]
+Detailed Proposal for Water Pollution Control Measures and Proposed Monitoring [PS22.5.1]
+Dis-assemble TBM
+Dis-assemble TBM
+Dis-assemble TBM
+Dis-assemble TBM
+Dismantle Temporary frame
+Dismantle Temporary frame
+Dismantle Temporary frame
+Dismantle Temporary frame
+Dismantle Temporary frame
+Dismantle Temporary frame
+Dismantle Temporary frame
+Dismantle Temporary frame
+Dismantling temporary bridge deck
+Downstream pipe pile wall construction (45 nos.) and grout curtain (45 nos.)
+Drilling for ground improvement only (if require)
+ELS Works
+ELS works to formation level from SN10 to SN15 (soil: 9,455m3 @330m3/day, install S1 to S3 strut 5 days/layer)
+ELS works to formation level from SN16 to SN19 (soil: 8,700m3 @350m3/day, Install S1 to S3 strut 5 days/layer)
+ERS to Tse Uk Tsuen Tunnels, down track
+ERS to Tse Uk Tsuen Tunnels, down track
+ERS to Tse Uk Tsuen Tunnels, down track
+ERS to Tse Uk Tsuen Tunnels, down track
+ERS to Tse Uk Tsuen Tunnels, down track
+ERS to Tse Uk Tsuen Tunnels, down track
+ERS to Tse Uk Tsuen Tunnels, down track
+ERS to Tse Uk Tsuen Tunnels, down track
+ERS to Tse Uk Tsuen Tunnels, down track
+ERS to Tse Uk Tsuen Tunnels, up track
+ERS to Tse Uk Tsuen Tunnels, up track
+ERS to Tse Uk Tsuen Tunnels, up track
+ERS to Tse Uk Tsuen Tunnels, up track
+ERS to Tse Uk Tsuen Tunnels, up track
+ERS to Tse Uk Tsuen Tunnels, up track
+ERS to Tse Uk Tsuen Tunnels, up track
+ERS to Tse Uk Tsuen Tunnels, up track
+ERS to Tse Uk Tsuen Tunnels, up track including shunt neck
+ERS to Tse Uk Tsuen, down track
+ERS to Tse Uk Tsuen, up track
+Engineer Instruction for procurement of 2nd TBM
+Engineer's confirmation of Satisfactory implementation of Specified Plans and Programming Management System
+Engineer's confirmation of satisfactory implementation of Specified Plans
+Engineer's confirmation of satisfactory implementation of Specified Plans
+Engineer's confirmation of satisfactory implementation of Specified Plans
+Engineer's confirmation of satisfactory implementation of Specified Plans and Programming Management System
+Engineer's confirmation of satisfactory implementation of Specified Plans and Programming Management System
+Engineer's confirmation of satisfactory of implementation of Specified Plans
+Engineer's confirmation of the acceptance of on-demand bond or bank guarantee in respect of the procurement of TBM
+Environmental Management Plan - Approval period
+Environmental Management Plan - Prepare and submit for approval [GS5.1.10]
+Erect 3m high block wall
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork
+Erect external formwork (Base Slab)
+Erect external formwork (Base Slab)
+Erect external formwork (Base Slab)
+Erect external formwork (Base Slab)
+Erect external formwork (Base Slab)
+Erect external formwork (Base Slab)
+Erect external formwork (External Wall & Internal Wall)
+Erect external formwork (External Wall)
+Erect external formwork (Roof Parapet Wall)
+Erect external formwork (Roof Parapet Wall)
+Erect external formwork (Wall & Roof)
+Erect external formwork (Wall & Roof)
+Erect external formwork (Wall & Roof)
+Erect external formwork (Wall & Roof)
+Erect external formwork (Wall)
+Erect external formwork (Wall)
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for base slab
+Erect external formwork for central slab
+Erect external formwork for central slab
+Erect external formwork for roof
+Erect external formwork for roof
+Erect external formwork for roof
+Erect external formwork for roof
+Erect external formwork for wall
+Erect external formwork for wall
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external formwork for wall and roof
+Erect external wall & internal wall formwork
+Erect falsework and soffit formwork (Opening)
+Erect falsework and soffit formwork +30.206mPD
+Erect falsework and soffit formwork +32.656
+Erect internal formwork
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework
+Erect internal formwork & Falsework (Wall & Roof)
+Erect internal formwork & Falsework (Wall & Roof)
+Erect internal formwork & Falsework (Wall & Roof)
+Erect internal formwork & Falsework (Wall & Roof)
+Erect internal formwork & Falsework for roof
+Erect internal formwork & Falsework for roof
+Erect internal formwork & Falsework for roof
+Erect internal formwork & Falsework for roof
+Erect internal formwork & Falsework for roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork & Falsework for wall and roof
+Erect internal formwork (External Wall)
+Erect internal formwork and scaffold system (Wall and roof)
+Erect internal formwork and scaffold system (Wall and roof)
+Erect internal formwork below strut S1
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork
+Erect internal kicker formwork (Base Slab)
+Erect internal kicker formwork (Base Slab)
+Erect internal kicker formwork (Base Slab)
+Erect internal kicker formwork (Base Slab)
+Erect internal kicker formwork (Base Slab)
+Erect internal kicker formwork (Base Slab)
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect internal kicker formwork for base slab
+Erect shutter formwork for roof
+Erect working platform to +21.0mPD
+Erect working platform to +24.0mPD
+Erect working platform to +30.406mPD
+Erect working platform to +33.576mPD
+Erection of Hoarding with Gate (WA3.11)
+Erection of Metal Steel Hoarding, Gate, and Chainlink Fence at Works Areas 3.1, 3.2, 3.3 and 3.3A [PS4.6.1]
+Erection of Metal Steel Hoarding, Gate, and Chainlink Fence at Works Areas 4.9, 4.10, 4.11, 4.12A~C, and 4.15 [PS4.6.1]
+Erection of noise enclosure
+Erection of temporary working platform for Up stream and Installation of Instrumentation System
+Erection temporary bridge deck
+Excavate from ground level to formation level -5.5mPD (4559m3)
+Excavate up to +0.5mPD (2440m3)
+Excavate up to +0.5mPD (3100m3)
+Excavate up to +10.5mPD (369m3)
+Excavate up to +11.0mPD (3410m3)
+Excavate up to +11.0mPD (6820m3)
+Excavate up to +15.5mPD (1984m3)
+Excavate up to +16.5mPD (3410m3)
+Excavate up to +16.5mPD (4880m3)
+Excavate up to +19.5mPD (1984m3)
+Excavate up to +22.0mPD (1860m3)
+Excavate up to +22.0mPD (3720m3)
+Excavate up to +23.5mPD (2480m3)
+Excavate up to +28.5mPD (1488m3)
+Excavate up to +3.5mPD (2170m3)
+Excavate up to +3.5mPD (4340m3)
+Excavate up to +4.5mPD (2135m3)
+Excavate up to +4.5mPD (2713m3)
+Excavate up to +7.0mPD (2480m3)
+Excavate up to +7.0mPD (4960m3)
+Excavate up to +8.0mPD (1525m3)
+Excavate up to +8.0mPD (775m3)
+Excavate up to -3.0mPD (2713m3)
+Excavate up to -5.5mPD (4952m3)
+Excavate up to -6.5mPD (4340m3)
+Excavate up to formation (2294m3)
+Excavate up to formation (4117m3)
+Excavate up to formation (4960m3)
+Excavation 0-4mts with Shotcrete
+Excavation 0-4mts with Shotcrete
+Excavation 0-4mts with Shotcrete
+Excavation 0-4mts with Shotcrete
+Excavation 0-4mts with Shotcrete
+Excavation 0-4mts with Shotcrete
+Excavation 0-4mts with Shotcrete
+Excavation 0-4mts with Shotcrete
+Excavation and saw cut D-wall
+Excavation and soil nail installation
+Excavation for rock and blinding layer
+Excavation from GL to FL +5.0mPD Down stream (Low flow channel CH 130~160)
+Excavation from GL to FL +5.0mPD Up stream (Low flow channel CH 30~60)
+Excavation of trial pits
+Excavation to formation and place blinding Bay 4a
+Excavation to formation and place blinding Bay 4b
+Excavation to formation and place blinding Bay2 to Bay1
+Excavation to formation and place blinding Bay3
+Fabrication 100% of North Tunnel North Bound (Uptrack) Precast Lining
+Fabrication 100% of North Tunnel South Bound (Downtrack) Precast Lining
+Fabrication 100% of South Tunnel North Bound Precast Lining
+Fabrication 100% of South Tunnel South Bound Precast Lining
+Fabrication 30% of North Tunnel North Bound (Uptrack) Precast Lining
+Fabrication 50% of North Tunnel South Bound (Downtrack) Precast Lining
+Fabrication 50% of South Tunnel North Bound Precast Lining
+Fabrication 50% of South Tunnel South Bound Precast Lining
+Fabrication 60% of North Tunnel North Bound (Uptrack) Precast Lining
+Fabrication of tunnel segment mould
+Field walking and hand augering
+Final assembly for tunnel boring machine at the factory
+Final assembly for tunnel boring machine at the factory
+Final tunnel connection to 823B northern cut and cover tunnels
+Final tunnel connections by 823B at southern cut and cover tunnels
+Formworks / Falsework - Prepare & Submit
+Formworks / Falsework - Response to comments and Resubmit
+Formworks / Falsework - Review & Approval Period (by MTRC)
+Formworks / Falsework - Review & Approval Period (for resubmission) (by MTRC & related Government Authorities)
+General and Special Attendance for Designated Contractors
+Ground treatment at lauching shaft Northbound
+Ground treatment at lauching shaft Southbound
+Ground treatment for Cross Passage Tunnel
+Ground treatment for TBM lanching shaft
+Ground treatment for TBM northbound
+Ground treatment for TBM southbound
+Ground treatment works by 822
+Groundwater Monitoring and Response Plan [PS22.5.2]
+Handover to TBM Team
+Handover to TBM's Team
+Health and Safety Plan - Prepare and submit [G3.6.1]
+Hydroseeding works
+If settlement reach the AAA alarm & action level TAM grouting will apply during excavation
+Implement and Maintain Programme Management System for 1st Audit
+Implement and Maintain Programme Management System for 2nd Audit
+Implement and Maintain Programme Management System for 3rd Audit
+Implement and Maintain Specified Plans and satisfactorily confirmed by Engineer for 1st audit
+Implement and Maintain Specified Plans and satisfactorily confirmed by Engineer for 2nd audit
+Implement and Maintain Specified Plans and satisfactorily confirmed by Engineer for 3rd audit
+Implement and Maintain Specified Plans and satisfactorily confirmed by Engineer for 4th audit
+Implement and Maintain Specified Plans and satisfactorily confirmed by Engineer for 5th audit
+Implement and Maintain Specified Plans and satisfactorily confirmed by Engineer for 6th audit
+Implement and Maintain Specified Plans and satisfactorily confirmed by Engineer for 7th audit
+Independent Checking Engineer - Appoint and submit for approval [PS7.1.8]
+Independent Checking Engineer - Approval period
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab
+Infill concrete in between D-wall and base slab (204m3)
+Infill concrete in between D-wall and base slab (204m3)
+Initial Site Survey  & Condition Survey (WA4.9A, 4.10, 4.10A, 4.11, 4.12B, 4.12C, 4.15, 4.15A, 4.15B)
+Initial Site Survey & Condition Survey (WA3.1, 3.2, 3.3, 3.3A, 3.3B, 4.2, 4.3, 4.4)
+Initial Site Survey (WA3.11)
+Initial Site Survey Report (WA3.1, 3.2, 3.3, 3.3A, 3.3B, 4.2, 4.3, 4.4)
+Initial Site Survey Report (WA3.11)
+Initial Site Survey Report (WA4.9A, 4.10, 4.10A, 4.11, 4.12B, 4.12C, 4.15, 4.15A, 4.15B)
+Install Door to Cross Passage (By contract 827)
+Install Door to Cross Passage (By contract 827)
+Install Door to Cross Passage (By contract 827)
+Install Door to Cross Passage (By contract 827)
+Install Door to Cross Passage (By contract 827)
+Install Door to Cross Passage (By contract 827)
+Install Door to Cross Passage (By contract 827)
+Install Door to Cross Passage (By contract 827)
+Install Strut S0 +11.0mPD
+Install Strut S1 +22.5mPD
+Install Strut S1 +22.5mPD
+Install Strut S1 +29.0mPD
+Install Strut S1 +8.5mPD
+Install Strut S1 +8.5mPD
+Install Strut S2 +17.0mPD
+Install Strut S2 +17.0mPD
+Install Strut S2 +24.0mPD
+Install Strut S2 +5.0mPD
+Install Strut S2 +5.0mPD
+Install Strut S3 +1.0mPD
+Install Strut S3 +1.0mPD
+Install Strut S3 +11.5mPD
+Install Strut S3 +11.5mPD
+Install Strut S3 +20.0mPD
+Install Strut S4 +16.0mPD
+Install Strut S4 +7.5mPD
+Install Strut S4 +7.5mPD
+Install Strut S4 -2.5mPD
+Install Strut S5 +4.0mPD
+Install Strut S5 +4.0mPD
+Install and Erect Temporary support inside Main Tunnel for Cross Passage Tunnel CP32 (Partial length) at down track
+Install and Erect Temporary support inside Main Tunnel for Cross Passage Tunnel CP32 (Remaining length ) at down track
+Install rock dowel and tie back
+Install rock dowel and tie back
+Install rock dowel and tie back
+Install temporary support inside Main Tunnel for CP26 Stage 1 (From Downtrack to Centre of CP)
+Install temporary support inside Main Tunnel for CP26 Stage 2 (From Centre of CP to Uptrack)
+Install temporary support inside Main Tunnel for CP27 Stage 1 (From Downtrack to Centre of CP)
+Install temporary support inside Main Tunnel for CP27 Stage 2 (From Centre of CP to Uptrack)
+Install temporary support inside Main Tunnel for CP28 Stage 1 (From Downtrack to Centre of CP)
+Install temporary support inside Main Tunnel for CP28 Stage 2 (From Centre of CP to Uptrack)
+Install, service and maintain 10 container offices for use by the Engineer's Site Staff
+Installation of cable bracket
+Installation of cable bracket
+Installation of cable bracket
+Installation of cable bracket
+Installation of ground settlement markers
+Invert Concrete
+Invert Concrete
+Invert Concrete
+Invert Concrete
+Invert Concrete
+Invert Concrete
+Invert Concrete
+Invert Concrete
+Invert slab and side walkway
+Invert slab and side walkway
+Invert slab, side walkway
+Invert slab, side walkway
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Issue Completed Working Drawings
+Kam Tin River Diversion (Stage 1-3)
+L-Shape wall construction
+Laying 500mm mass concrete lateral support
+Layout of Barging Point - Prepare and Submit
+Layout of Barging Point - Response to comments and Resubmit
+Layout of Barging Point - Review and Approval Period  (by MTRC)
+Layout of Barging Point - Review and Approval Period (for resubmission) (by MTRC & related Government Authorities)
+Layout of Engineer's Accommodation - Prepare and Submit
+Layout of Engineer's Accommodation - Response to comments and Resubmit
+Layout of Engineer's Accommodation - Review and Approval Period (by MTRC)
+Layout of Engineer's Accommodation - Review and Approval Period (for resubmit) (by MTRC & related Government Authorities
+Layout of Site Hoarding - Prepare and Submit
+Layout of Site Hoarding - Response to comments and Resubmit
+Layout of Site Hoarding - Review and Approval Period (by MTRC)
+Layout of Site Hoarding - Review and Approval Period (for resubmission) (by MTRC & related Government Authorities)
+Loading Ramps - Prepare and Submit
+Loading Ramps - Response to comments and Resubmit
+Loading Ramps - Review and Approval Period  (by MTRC)
+Loading Ramps - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+Lowing back-up plant for final drive
+Marine Survey at Barging Point [PS4.3] (before construction of barging facilities)
+Mass concrete at level +12.0mPD
+Mass infill between D-wall and tunnel wall
+Master Programme - Comments , Resubmission and Approval period
+Master Programme - Prepare and submit for approval [GS4.6.1]
+Metal works (Louver, Door, Cat-ladder, Architectural Fins, Handrail, Roof Sliding Hatch and Balustrade, etc)
+Methods of Construction - Approval period
+Methods of Construction - Prepare and submit for approval [GS12.1.1]
+Noise Management Plan [P22.3.9]
+Notice to Contract 824 the anticipated dates of break out TBM Shaft
+Notification Period of the Approved TTM Scheme prior to implementation [PS19.4]
+Notification period to Engineer and EPD prior to Asbestos abatement works
+Operation Plan for the Barging Facility - Prepare and Submit for Approval [PS17.1.9]
+Operation Plan for the Barging Facility - Review and Approval Period
+Overhead Lines Power On - North Tunnels (by Designated C830)
+Overhead Lines Power On - South Tunnels (by Designated C830)
+Permit Applications (incl. License to Search and Excavate Antiquities and Excavation Permit)
+Placing 0.5m thk concrete lateral support (+3.96mPD)
+Placing concrete block at side A from +8.0mPD to +11.0mpd  at side A (4 bay CH A80~A120)
+Placing concrete block at side B from +8.0mPD to +11.0mPD (4 bay CH B60~B90)
+Placing mass concrete infill between tunnel and D-wall
+Placing mass concrete infill between tunnel and D-wall (SN18-19)
+Placing of blinding layer
+Placing of blinding layer (North Bound)
+Placing of blinding layer (South Bound)
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing
+Placing of waterproof member T-lock & testing (Base Slab)
+Placing of waterproof member T-lock & testing (Base Slab)
+Placing of waterproof member T-lock & testing (Base Slab)
+Placing of waterproof member T-lock & testing (Base Slab)
+Placing of waterproof member T-lock & testing (Base Slab)
+Placing of waterproof member T-lock & testing (Base Slab)
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing of waterproof member T-lock & testing for base slab
+Placing temporary concrete block to Up stream at CH160
+Placing temporary concrete block to Up stream at CH30
+Position crane for TBM retrieval (down track)
+Position crane for TBM retrieval (up track)
+Position crane for TBM retrieval at Tai Kong Po Shaft
+Position crane for TBM retrieval at Tai Kong Po Shaft
+Pre-drill and guide wall
+Pre-drill and guide wall
+Pre-drilling and guidewall
+Pre-drilling and guidewall
+Pre-drilling and guidewall
+Pre-drilling and guidewall
+Pre-drilling at Works Area 4.4
+Preliminary Design Programme - Prepare and Submit for Approval [PS7.1.8 - App. Z2.1]
+Preliminary Design Programme - Resubmission and Approval (if required) [PS7.1.8 - App. Z2.2]
+Preliminary Design Programme - Review and Approval Period [PS7.1.8 - App. Z2.2]
+Preparation of construction joint  for roof
+Preparation of construction joint  for roof
+Preparation of construction joint  for roof
+Preparation of construction joint  for roof
+Preparation of construction joint  for roof
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for base slab
+Preparation of construction joint for central slab
+Preparation of construction joint for central slab
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Preparation of construction joint for wall and roof
+Prepare and Submit
+Prepare and Submit Detailed Interface Specification
+Prepare and Submit Detailed Interface Specification
+Prepare and Submit Draft Operation and Maintenance Manual [PS33.1]
+Prepare and Submit Final Operation and Maintenance Manual [PS33.1]
+Prepare and submit Asbestos Investigation Report (AIR) & Asbestos Abatement Plan (AAP)
+Prepare and submit Contamination Assessment Report (CAR) & Remediation Action Plan (RAP) for WAs 3.1, 3.2, 3.3 & 3.3A
+Prepare on-demand bond or bank guarantee for the procurement of TBM and submit to Engineer for approval
+Probe/Grout
+Probe/Grout
+Probe/Grout
+Probe/Grout
+Probe/Grout
+Probe/Grout
+Probe/Grout
+Probe/Grout
+Procurement and Confirmation of the order of 1st tunnel boring machine
+Procurement and Confirmation of the order of 2nd tunnel boring machine
+Project Signboard Erection [PS4.6.8]
+Proposal for Site Clearance Works [PS4.4.1]
+Proposed Outline TTM Scheme - Prepare & submit to the: Engineer for Review / SLG for Approval [PS19.3]
+Protection screening to waterproofing member (Wall & Roof)
+Protection screening to waterproofing member (Wall & Roof)
+Provide Engineer with As-Built Drawing for the Whole of the Works [PS33.2]
+Provide Engineer with Asset Registration Information [PS33.3]
+Provide Engineer with site transportation as detailed in PS42.1
+Provide Engineer with suitably qualified full time Survey Assistant - 4 nos. [PS41.3.1]
+Provide services and equipment for the Engineer
+Provision access opening to DC
+Provision of assess open for DC and modify of strut S1 and S2 at north bound
+Quality Plan - Approval period
+Quality Plan - Prepare and submit for approval [GS9.2.1]
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing
+Rebar fixing (Base Slab)
+Rebar fixing (Base Slab)
+Rebar fixing (Base Slab)
+Rebar fixing (Base Slab)
+Rebar fixing (Base Slab)
+Rebar fixing (Base Slab)
+Rebar fixing (Beam & Floor Slab)
+Rebar fixing (Beam, Floor Slab and Staircase)
+Rebar fixing (External Wall & Internal Wall)
+Rebar fixing (External Wall & Internal Wall)
+Rebar fixing (External Wall)
+Rebar fixing (Roof Parapet Wall)
+Rebar fixing (Roof)
+Rebar fixing (Wall & Roof)
+Rebar fixing (Wall & Roof)
+Rebar fixing (Wall & Roof)
+Rebar fixing (Wall & Roof)
+Rebar fixing (Wall and roof)
+Rebar fixing (Wall and roof)
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for base slab
+Rebar fixing for central slab
+Rebar fixing for central slab
+Rebar fixing for roof
+Rebar fixing for roof
+Rebar fixing for roof
+Rebar fixing for roof
+Rebar fixing for roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Rebar fixing for wall and roof
+Reinstate Nullah Base of original route
+Reinstate Nullah to original route
+Reinstate Works Areas 4.9, 4.9A and 4.12A prior to handover
+Reinstate of noise enclosure
+Reinstate of noise enclosure
+Reinstate the Kam Tin Nullah near Wang Toi Shan Shan Tsuen Road and complete gauging stations
+Reinstate the permenant Retaining wall of Nullah
+Reinstatement of TOA's
+Reinstatement of TUT area (Including Hydroseeding)
+Reinstatement of Wang Toi Shan Shan Tsuen Road
+Reinstatement of Works Area 4.10
+Relocation of temporary concrete block at Down stream for construction of mass concrete wall at side B
+Relocation of temporary concrete block at Up stream for construction of mass concrete wall at side B
+Remaining cut and cover tunnel (Box 6) of the North Tunnels
+Remaining excavation from GL to FL +5.0mPD Down stream and saw cut D-wall
+Remaining excavation from GL to FL +5.0mPD Up stream and saw cut D-wall
+Remaining wall and roof slab (Closing of DC access opening)
+Remaining wall and roof slab (Closing of DC access opening)
+Remediation Report - Approval (Area Q)
+Remediation Report - Approval (WA 3.1, 3.2, 3.3 remaining, 3.3A)
+Remediation Report - Approval (WA3.3 - Area M, I, L)
+Remediation Report - Prepare and submit for Approval (WA 3.1, 3.2, 3.3 remaining, 3.3A)
+Remediation Report - Prepare and submit for Approval (WA3.3 - Area M, I, L)
+Remediation Report - Prepare and submit for Approval [PS22.9.2] (Area Q)
+Removal S3 and S2
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external and internal formwork for wall
+Removal external formwork (Wall )
+Removal external formwork (Wall)
+Removal external formwork (Wall)
+Removal external formwork (Wall)
+Removal external wall formwork for wall
+Removal external wall formwork for wall
+Removal external wall formwork for wall
+Removal formwork (External Wall & Internal Wall)
+Removal formwork (External Wall & Internal Wall)
+Removal formwork (External Wall)
+Removal formwork (Roof Parapet Wall)
+Removal formwork (Roof)
+Removal formwork (Wall)
+Removal formwork (Wall)
+Removal formwork and falsework (Roof)
+Removal internal falsework (Wall & Roof)
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for roof
+Removal internal falsework and formwork for wall and roof
+Removal internal falsework and formwork for wall and roof
+Removal internal falsework and soffit formwork (Roof)
+Removal internal falsework, formwork and reproping (Wall & Roof)
+Removal of North Bound strut to +9.50mPD
+Removal of Roof of Noise Enclosure
+Removal of Roof of Noise Enclosure
+Removal of S1
+Removal of S1
+Removal of S1
+Removal of S2
+Removal of S2 (SN16-18)
+Removal of South Bound strut to +9.50mPD
+Removal of Temporary Culvert and Reinstatement
+Removal of Temporary Nullah
+Removal of contaminated soil at North Tunnels (Area N,O,P,Q,R,S)
+Removal of contamination
+Removal of falsework and soffit formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork
+Removal of formwork (Base Slab)
+Removal of formwork (Base Slab)
+Removal of formwork (Base Slab)
+Removal of formwork (Base Slab)
+Removal of formwork (Base Slab)
+Removal of formwork (Base Slab)
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for base slab
+Removal of formwork for central slab
+Removal of formwork for central slab
+Removal of segment
+Removal of segment
+Removal of segment
+Removal of segment
+Removal of segment
+Removal of segment
+Removal of segment
+Removal of segment
+Removal strut S1
+Removal strut S1
+Removal strut S1
+Removal strut S1 (SN16-18)
+Removal strut S1 @ SN 19
+Removal strut S2
+Removal strut S2
+Removal strut S2
+Removal strut S2 @ SN 19
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S3
+Removal strut S4 and S3
+Removal strut S4 and S3
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut S5 and S4
+Removal strut at +8.5mPD near side A
+Removal strut at +8.5mPD near side B
+Remove Strut S0
+Remove Strut S1
+Remove Strut S2
+Remove all equipment, plant, materials and temporary works, and reinstate the area after final TBM removal
+Rescue excavation rescue works (if required)
+Response to comments and Resubmit
+Resubmission of Proposed Outline TTM Scheme (if required)
+Return TUT shaft by contract 822
+Review and Approval Period
+Review and Approval Period (for resubmission)
+Review and approval period of Draft Operation and Maintenance Manual
+Reviewal Period / Approval Process by Engineer/SLG of the Proposed TTM Scheme [PS19.4]
+Reviewal Period / Approval Process by Engineer/SLG of the Resubmitted Proposed Outline TTM Scheme [PS19.4]
+Rock breaking works
+SI for TBM ground treatment
+Saw cut North Bound diaphragm wall
+Saw cut South Bound diaphragm wall
+Schedule of Designs - Prepare and Submit for Approval [PS7.1.8 - App. Z2.5]
+Schedule of Utilities Services Arrangement [GS7.5.1]
+Scheme Design, Mobilization, Site set up & Material delivery and Instrumentations
+Settlement monitoring and submit report
+Settlement monitoring and submit report
+Settlement monitoring and submit report
+Settlement monitoring and submit report
+Settlement monitoring and submit report
+Settlement monitoring and submit report
+Setup TBM facilities
+Setup back-up plant for final drive
+Setup back-up plant for final drive
+Shear beam
+Shear beam
+Shear beam
+Shear pin and pumping test
+Shear pin, toe grout and pumping test
+Side walkway and cable bracket
+Side walkway and cable bracket
+Side walkway and cable bracket
+Side walkway and cable bracket
+Side walkway and cable bracket
+Side walkway and cable bracket (102m3)
+Side walkway and cable bracket (102m3)
+Side walkway and cable bracket (102m3)
+Side walkway and cable bracket (19m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (204m3)
+Side walkway and cable bracket (360m3)
+Side walkway and cable bracket (38m3)
+Side walkway and cable bracket (38m3)
+Side walkway and cable bracket (38m3)
+Side walkway and cable bracket (38m3)
+Side walkway and cable bracket (38m3)
+Side walkway and cable bracket (38m3)
+Side walkway and cable bracket (38m3)
+Side walkway and cable bracket (38m3)
+Side walkway and cable bracket (38m3)
+Side walkway and cable bracket (72m3)
+Side walkway and cable bracket (72m3)
+Side walkway and cable bracket (Northbound)
+Side walkway and cable bracket (Southbound)
+Site Clearance / Site Formation Works (including demolition of EBS)
+Site Possession and Site set up and Mobilization
+Site Possession and Site set up and Mobilization
+Site Possession and Site set up and Mobilization
+Site Possession and Site set up and Mobilization
+Site Safety Supervision Plan for ELS - Approval Period
+Site Safety Supervision Plan for ELS - Prepare and Submit
+Site Safety Supervision Plan for Site Formation - Approval period
+Site Safety Supervision Plan for Site Formation - Prepare and Submit
+Site Safety Supervision Plan for Site Investigation - Approval period
+Site Safety Supervision Plan for Site Investigation - Prepare and Submit
+Site Safety Supervision Plan for Tunnel Works - Approval Period
+Site Safety Supervision Plan for Tunnel Works - Prepare and Submit
+Site Setup and guide wall
+Soil backfill at side A from +5.0mPD to +8.0mPD
+Soil backfill at side A from +8.0mPD to +11.0mPD
+Sonic test, shear pin, toe grout and pumping Test
+Sonic test, shear pin, toe grout and pumping Test
+Sonic test, shear pin, toe grout and pumping Test
+Sonic test, shear pin, toe grout and pumping test
+Sonic test, shear pin, toe grout and pumping test
+Spoil Disposal Plan [PS17.7.1]
+Spray waterproofing member & testing (Wall & Roof)
+Spray waterproofing member & testing (Wall & Roof)
+Spray waterproofing member & testing (Wall & Roof)
+Spray waterproofing member & testing (Wall & Roof)
+Spray waterproofing member & testing (Wall & Roof)
+Spray waterproofing member & testing (Wall & Roof)
+Spray waterproofing member & testing (Wall & Roof)
+Spray waterproofing member & testing (Wall & Roof)
+Spray waterproofing member & testing (Wall & Roof) (SN18-19)
+Staircase construction (+12.0mPD to +14.706mPD)
+Staircase construction (+14.706mPD to +16.956mPD) (20m3)
+Staircase construction (+16.956mPD to +19.206mPD) (20m3)
+Staircase construction (+19.206mPD to +21.456mPD) (20m3)
+Staircase construction (+21.456mPD to +23.706mPD) (20m3)
+Staircase construction (+21.456mPD to +25.956mPD) (20m3)
+Staircase construction (+25.956mPD to +27.606mPD) (20m3)
+Sub-contract Management Plan - Prepare and submit [PS34.1]
+Submit details of qualified drivers to be assigned to the Engineer, for review [PS42.2.1]
+Submit instrumentation monitoring report
+Submit instrumentation monitoring report
+Submit instrumentation monitoring report
+Submit instrumentation monitoring report
+Submit instrumentation monitoring report
+Submit instrumentation monitoring report
+Supply Engineer with Survey Equipment [PS41.1.1]
+Survey Method Statement (Survey Control of Tunnel) - Approval period
+Survey Method Statement (Survey Control of Tunnel) [PS13.3.1]
+System Assurance Plan - Approval period
+System Assurance Plan - Prepare and submit for approval [PS Appendix P3.1]
+TBM Break-in and Retrieval (down track)
+TBM Break-in and Retrieval (up track)
+TBM Design - Approval period
+TBM Design - Resubmission and approval period
+TBM Fabrication
+TBM Fabrication
+TBM Shipping to HK and delivery to site
+TBM Shipping to HK and delivery to site
+TBM assemble, testing and commissioning
+TBM assemble, thrust frame, testing and commissioning
+TBM design and submission for approval
+TBM design and submission for approval
+TBM disassembly and packing for shipping to HK
+TBM disassembly and packing for shipping to HK
+TBM drive & lining installation CH122+583 to CH122+491
+TBM drive & lining installation CH122+584 to CH122+506
+TBM drive & lining installation CH122+683 to CH122+583
+TBM drive & lining installation CH122+684 to CH122+584
+TBM drive & lining installation CH122+783 to CH122+683
+TBM drive & lining installation CH122+784 to CH122+684
+TBM drive & lining installation CH122+883 to CH122+783
+TBM drive & lining installation CH122+884 to CH122+784
+TBM drive & lining installation CH122+983 to CH122+883
+TBM drive & lining installation CH122+984 to CH122+884
+TBM drive & lining installation CH123+083 to CH122+983
+TBM drive & lining installation CH123+084 to CH122+984
+TBM drive & lining installation CH123+183 to CH123+083
+TBM drive & lining installation CH123+184 to CH123+084
+TBM drive & lining installation CH123+283 to CH123+183
+TBM drive & lining installation CH123+369 to CH123+283 Initial Drive (86m)
+TBM drive & lining installation CH123+384 to CH123+284 (Initial Drive)
+TBM drive & lining installation CH124+912 to CH125+012 (Initial Drive)
+TBM drive & lining installation CH124+927 to CH125+027 (Initial Drive)
+TBM drive & lining installation CH125+012 to CH125+338
+TBM drive & lining installation CH125+027 to CH125+353  (Final Drive)
+TBM equipments order and delivery to factory
+TBM equipments order and delivery to factory
+TBM materials order and delivery to factory
+TBM materials order and delivery to factory
+TBM test Run
+TBM test Run
+TTMS Assessment Report - Prepare and Submit
+TTMS Assessment Report - Response to comments and Resubmit
+TTMS Assessment Report - Review and Approval Period (by MTRC)
+TTMS Assessment Report - Review and Approval Period (for resubmission)  (by MTRC & related Government Authorities)
+Tai Kong Po Shaft (ready not later than)
+Tai Kong Po to ERS Tunnels,  down track
+Tai Kong Po to ERS Tunnels, (Box 6A) both up & down tracks
+Tai Kong Po to ERS Tunnels, (Box 7B & 6B) up track
+Tai Kong Po to ERS Tunnels, both up and down tracks
+Tai Kong Po to ERS Tunnels, down track
+Tai Kong Po to ERS Tunnels, down track
+Tai Kong Po to ERS Tunnels, down track
+Tai Kong Po to ERS Tunnels, down track
+Tai Kong Po to ERS Tunnels, down track
+Tai Kong Po to ERS Tunnels, down track
+Tai Kong Po to ERS Tunnels, down track, excluding Box 6A
+Tai Kong Po to ERS Tunnels, up  track
+Tai Kong Po to ERS Tunnels, up track
+Tai Kong Po to ERS Tunnels, up track
+Tai Kong Po to ERS Tunnels, up track
+Tai Kong Po to ERS Tunnels, up track
+Tai Kong Po to ERS Tunnels, up track
+Tai Kong Po to ERS Tunnels, up track
+Tai Kong Po to ERS Tunnels, up track excluding Box 7A, 7B & 6B
+Temporary Occupation Area: Conduct, prepare and submit TOA Record Survey for Works Areas 4.9 & 4.12A [PS4.2]
+Temporary Occupation Area: Conduct, prepare and submit TOA Record Survey for Works Areas 5.1 & 5.3 [PS4.2.3]
+Temporary base Slab for TBM Drive
+Temporary box culvert (At Box 6B Area) Saw Cut D-wall
+Temporary box culvert (Outside Box 6B Area) Sheet piling
+Temporary handover the shaft to contract 822
+Testing of gathered samples
+Time Chainage Programme - Approval period
+Time Chainage Programme - Prepare and submit for approval [GS4.11.1]
+Tree Planting works
+Tree transplant
+Upstream pipe pile wall construction adjacent to WTSSTR, (17nos.)
+Upstream pipe pile wall construction at Kam Tin River, 15m depth, 42nos. 1drill rig)
+Vibration Monitoring Plan [PS22.8.1]
+Wall and Roof concrete
+Wall and Roof concrete
+Wall and Roof concrete
+Wall and Roof concrete
+Wall and Roof concrete
+Wall and Roof concrete
+Wall and Roof concrete
+Wall and Roof concrete
+Wang Toi Shan Shan Tsuen Road diversion works
+Waste Management Plan [PS22.10.1]
+Water proofing and concrete backfilling to top of Tunnel Bay  6
+Water proofing and concrete backfilling to top of Tunnel Bay 4
+Water proofing and concrete backfilling to top of Tunnel Bay 5 and remove S3 & S2
+Water proofing and soil backfilling to 0.5m below top of Tunnel Bay 3 to Bay 1
+Waterproofing
+Waterproofing
+Weighbridge - Prepare and Submit
+Weighbridge - Response to comments and Resubmit
+Weighbridge - Review and Approval Period  (by MTRC)
+Weighbridge - Review and Approval Period (for resubmission) (by MTRC & related Government Authorities)
+Wet trade work
+Woodland Shrub Mix
+Works Area 1.15A
+Works Area 1.15A
+Works Area 1.15B
+Works Area 1.15B (Option No. 1)
+Works Area 3.1
+Works Area 3.1
+Works Area 3.1
+Works Area 3.1
+Works Area 3.11
+Works Area 3.11
+Works Area 3.2
+Works Area 3.2
+Works Area 3.2
+Works Area 3.2
+Works Area 3.3
+Works Area 3.3
+Works Area 3.3A
+Works Area 3.3A
+Works Area 3.3B
+Works Area 3.3B
+Works Area 3.4 (subject to SLG approval)
+Works Area 3.4 (subject to SLG approval)
+Works Area 4.1 (subject to SLG approval)
+Works Area 4.1 (subject to SLG approval)
+Works Area 4.10
+Works Area 4.10
+Works Area 4.10A
+Works Area 4.10A
+Works Area 4.11
+Works Area 4.11
+Works Area 4.12A
+Works Area 4.12A
+Works Area 4.12B
+Works Area 4.12B
+Works Area 4.12C
+Works Area 4.12C
+Works Area 4.13 (subject to SLG approval)
+Works Area 4.13 (subject to SLG approval)
+Works Area 4.15
+Works Area 4.15
+Works Area 4.15A
+Works Area 4.15A
+Works Area 4.15B
+Works Area 4.15B
+Works Area 4.15B
+Works Area 4.15B
+Works Area 4.16 (subject to SLG approval)
+Works Area 4.16 (subject to SLG approval)
+Works Area 4.2
+Works Area 4.2
+Works Area 4.3
+Works Area 4.3
+Works Area 4.4
+Works Area 4.4
+Works Area 4.9
+Works Area 4.9
+Works Area 4.9A
+Works Area 4.9A
+Works Area 5.1
+Works Area 5.1
+Works Area 5.2 (subject to SLG approval)
+Works Area 5.2 (subject to SLG approval)
+Works Area 5.3
+Works Area 5.3
+Works Area 5.3
+Works Area 5.3
